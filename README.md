@@ -1,5 +1,6 @@
 - 👋 Hi, I’m salma mohamed
-- 👀 I’m interested in MERN stack and currently adventuring on Blockchain.
+- 👀 I develop in MERN stack mainly, thou I worked with python and ruby-on-rails too, 
+- :) I'm currently adventuring on Blockchain.
 - 🌱 I’m currently learning Near protocol for Blockchain.
 - 💞️ I’m looking to collaborate on any MERN STACK project.
 - 📫 How to reach me on IG: @salmamoha_ke , email: queensalma.eth@gmail.com
